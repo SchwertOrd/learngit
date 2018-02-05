@@ -3,4 +3,4 @@ Git is free software.
 So testing second type.
 test git status.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
